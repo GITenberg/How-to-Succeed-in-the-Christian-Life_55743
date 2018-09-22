@@ -1,0 +1,29 @@
+_repo: How-to-Succeed-in-the-Christian-Life_55743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Torrey, R. A. (Reuben Archer)
+    alias: Torrey, Reuben Archer
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '34459'
+    url: http://www.gutenberg.org/2009/agents/34459
+description: ''
+gutenberg_issued: '2017-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Congregational authors'
+- !lcc 'BV'
+- GITenberg
+tableOfContents: Beginning right -- The open confession of Christ -- Assurance of
+  salvation -- Receiving the Holy Spirit -- Looking unto Jesus -- Church membership
+  -- Bible study -- Difficulties in the Bible -- Prayer -- Working for Christ -- Foreign
+  missions -- Companions -- Amusements -- Persecution -- Guidance.
+title: How to Succeed in the Christian Life
+url: http://www.gutenberg.org/ebooks/55743
